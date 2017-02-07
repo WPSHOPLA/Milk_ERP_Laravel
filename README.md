@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Milk Delivery Admin & Mobile Web App
 ======
 
@@ -55,6 +54,3 @@ Milk Delivery Admin & Mobile Web App
 
 ------
 Testing is in progress...
-=======
-# Milk_ERP_Laravel
->>>>>>> 6fda3ff50cd15961c7830de6c74fd8eccd43dd56
