@@ -1,0 +1,17 @@
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/.idea
+/.svn
+/public/img/order/
+/public/img/product/
+/public/img/station/
+/public/uploads/images/logo/
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/logs/
+/public/ueditor/php/upload/
+/public/csv/
+/public/exports/
